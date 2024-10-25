@@ -8,7 +8,7 @@ OSCS-CLI (Open Source Contributor Suggester CLI) is a simple command-line tool t
 - [Usage](#usage)
   - [Commands](#commands)
 - [Project Structure](#project-structure)
-- [Future enhancements and plans](#future-enhancements)
+- [Future Enhancements and Plans](#future-enhancements-and-plans)
 - [License](#license)
 - [Author](#author)
 
