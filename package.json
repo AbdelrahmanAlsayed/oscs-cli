@@ -15,6 +15,11 @@
     "email": "dev.abdelrahman7@gmail.com",
     "url": "https://github.com/AbdelrahmanAlsayed"
   },
+  "homepage": "https://github.com/AbdelrahmanAlsayed/oscs-cli",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AbdelrahmanAlsayed/oscs-cli"
+  },
   "dependencies": {
     "axios": "^1.5.0",
     "commander": "^10.0.0",
