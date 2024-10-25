@@ -1,4 +1,4 @@
-# OSC-CLI
+# OSCS-CLI
 
 OSCS-CLI (Open Source Contributor Suggester CLI) is a simple command-line tool to help us the developers to discover open-source projects related to our preferences. It fetches and displays repositories based on field, job title, language proficiency, and other criteria.
 
