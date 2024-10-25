@@ -1,12 +1,13 @@
 {
   "name": "oscs-cli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "An open source contributor suggester CLI tool to fetch and display open-source projects based on user preferences.",
   "bin": {
-    "oscs-cli": "index.js"
+    "oscs-cli": "bin/index.js"
   },
+  "type": "module",
   "scripts": {
-    "start": "node index.js"
+    "start": "node bin/index.js"
   },
   "license": "MIT",
   "author": {
