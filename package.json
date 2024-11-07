@@ -1,6 +1,6 @@
 {
   "name": "oscs-cli",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "An open source contributor suggester CLI tool to fetch and display open-source projects based on user preferences.",
   "bin": {
     "oscs-cli": "bin/index.js"
@@ -19,6 +19,9 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/AbdelrahmanAlsayed/oscs-cli"
+  },
+  "publishConfig": {
+    "@AbdelrahmanAlsayed:registry": "https://npm.pkg.github.com"
   },
   "dependencies": {
     "axios": "^1.5.0",
